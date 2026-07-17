@@ -33,7 +33,7 @@ class AyushPatwa:
         self.education     = "B.Tech CSE (Data Science) @ Rungta College of Engineering & Technology"
         self.focus         = ["Machine Learning", "NLP", "Computer Vision", "Data Engineering"]
         self.also_building  = ["Full-Stack Web Apps", "Cybersecurity Tools", "AI Agents"]
-        self.currently      = "2nd Place @ HackSprint 2026 🏆 | Creating tech content on YouTube"
+        self.currently      = "Creating tech content on YouTube"
 
     def mission(self):
         return "Ship intelligent, real-world products — not just notebooks."
@@ -130,8 +130,6 @@ Real-time face-recognition prototype with QR fallback.
 </td>
 </tr>
 </table>
-
-> ⚠️ Replace repo names above with your exact GitHub repo slugs if they differ.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
