@@ -145,9 +145,10 @@ Real-time face-recognition prototype with QR fallback.
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AyushPatwa11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushPatwa11&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=00F0FF&fire=FF6F00&currStreakLabel=00F0FF"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AyushPatwa11&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9"/>
+  
+[<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushPatwa11&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=00F0FF&fire=FF6F00&currStreakLabel=00F0FF"/>
+](https://streak-stats.demolab.com/?user=AyushPatwa11&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=00F0FF&fire=FF6F00&currStreakLabel=00F0FF)
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushPatwa11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9"/>
 
