@@ -18,8 +18,6 @@
 <a href="https://x.com/techayushx"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://www.instagram.com/ayush29.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=AyushPatwa11&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" alt="profile views"/>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
