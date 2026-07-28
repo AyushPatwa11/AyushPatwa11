@@ -145,16 +145,14 @@ Real-time face-recognition prototype with QR fallback.
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AyushPatwa11&show_icons=true&theme=tokyonight"/>
-  
-[<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushPatwa11&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=00F0FF&fire=FF6F00&currStreakLabel=00F0FF"/>
-](https://streak-stats.demolab.com/?user=AyushPatwa11&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=00F0FF&fire=FF6F00&currStreakLabel=00F0FF)
 
-<img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AyushPatwa11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F0FF&text_color=c9d1d9"/>
+<a href="https://streak-stats.demolab.com?user=AyushPatwa11">
+<img height="165"
+src="https://github-readme-streak-stats.herokuapp.com/?user=AyushPatwa11&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F0FF&ring=00F0FF&fire=FF6F00&currStreakLabel=00F0FF"/>
+</a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPatwa11&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushPatwa11&theme=tokyonight"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPatwa11&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF"/>
 
 </div>
 
