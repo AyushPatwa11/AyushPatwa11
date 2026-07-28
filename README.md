@@ -154,7 +154,9 @@ Real-time face-recognition prototype with QR fallback.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPatwa11&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F0FF&line=00F0FF&point=FFFFFF"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AyushPatwa11&theme=algolia&no-frame=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushPatwa11&theme=tokyonight"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPatwa11&theme=tokyo-night"/>
 
 </div>
 
