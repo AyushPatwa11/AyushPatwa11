@@ -5,10 +5,13 @@
 
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+intelligent+systems+that+scale;Data+Science+%7C+Machine+Learning+%7C+NLP+%7C+CV;Full-Stack+Dev+%2B+Cybersecurity+Enthusiast;Turning+ideas+into+production-ready+products" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=100&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Building+intelligent+systems+that+scale;Data+Science+%7C+Machine+Learning+%7C+NLP+%7C+CV;Full-Stack+Dev+%2B+Cybersecurity+Enthusiast;Turning+ideas+into+production-ready+products"
+    alt="Typing SVG"
+  />
 </a>
 
-<br/>
+<br>
 
 <!-- SOCIAL BADGES -->
 <a href="https://www.linkedin.com/in/ayushpatwa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
