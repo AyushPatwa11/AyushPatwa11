@@ -30,7 +30,7 @@
 class AyushPatwa:
     def __init__(self):
         self.role         = "AI/ML Engineer in the making"
-        self.education     = "B.Tech CSE (Data Science) @ Rungta College of Engineering & Technology"
+        self.education     = "B.Tech CSE @ Rungta College of Engineering & Technology"
         self.focus         = ["Machine Learning", "NLP", "Computer Vision", "Data Engineering"]
         self.also_building  = ["Full-Stack Web Apps", "Cybersecurity Tools", "AI Agents"]
         self.currently      = "Creating tech content on YouTube"
