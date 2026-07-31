@@ -121,12 +121,12 @@ Multilingual assistant for crop disease detection & support.
 </td>
 <td width="50%">
 
-### 📸 Smart Attendance System
-**Face-Recognition + QR Attendance (SIH 2025)**
-Real-time face-recognition prototype with QR fallback.
+### 🎣 PhishGaurd AI
+**AI-powered phishing detection system**
+Real-time phishing detection using URL analysis, NLP, and ML.
 `React` `Vite` `face-api.js`
 
-<a href="https://github.com/AyushPatwa11/Smart-Attendance-System"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/AyushPatwa11/PhishGaurd_AI"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </td>
 </tr>
