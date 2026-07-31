@@ -124,7 +124,7 @@ Multilingual assistant for crop disease detection & support.
 ### 🎣 PhishGaurd AI
 **AI-powered phishing detection system**
 Real-time phishing detection using URL analysis, NLP, and ML.
-`React` `Vite` `face-api.js`
+`Python & Flask` `Scikit-learn` `immaculate`
 
 <a href="https://github.com/AyushPatwa11/PhishGaurd_AI"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
