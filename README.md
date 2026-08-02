@@ -164,7 +164,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=AyushPatwa11
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🎯 Currently Learning
+## 🎯 Currently Learning 
 
 <div align="center">
 
