@@ -144,7 +144,7 @@ Real-time phishing detection using URL analysis, NLP, and ML.
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 📊 GitHub Analytics
-
+ 
 <div align="center">
 
 <a href="https://streak-stats.demolab.com?user=AyushPatwa11">
