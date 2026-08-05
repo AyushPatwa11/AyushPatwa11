@@ -29,7 +29,7 @@
 
 ```python
 class AyushPatwa:
-    def __init__(self):
+    def __init__(self): 
         self.role         = "AI/ML Engineer in the making"
         self.education     = "B.Tech CSE @ Rungta College of Engineering & Technology"
         self.focus         = ["Machine Learning", "NLP", "Computer Vision", "Data Engineering"]
