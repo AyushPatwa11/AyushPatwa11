@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <!-- HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Ayush%20Patwa&fontSize=60&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full-Stack%20Builder&descAlignY=58&descAlign=50" width="100%"/>
