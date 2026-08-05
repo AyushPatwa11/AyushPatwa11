@@ -3,7 +3,7 @@
 <!-- HERO BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Ayush%20Patwa&fontSize=60&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full-Stack%20Builder&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- TYPING SVG -->
+<!-- TYPING SVG --> 
 <a href="https://git.io/typing-svg">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2000&pause=100&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=Building+intelligent+systems+that+scale;Data+Science+%7C+Machine+Learning+%7C+NLP+%7C+CV;Full-Stack+Dev+%2B+Cybersecurity+Enthusiast;Turning+ideas+into+production-ready+products"
