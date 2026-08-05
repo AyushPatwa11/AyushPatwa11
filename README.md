@@ -138,7 +138,7 @@ Real-time phishing detection using URL analysis, NLP, and ML.
 
 - 🥈 **2nd Place — HackSprint 2026** (₹3,000 cash prize)
 - 🎓 Certified — **AI & Machine Learning**, Coding Spoon
-- 🇮🇳 Participant — **Smart India Hackathon (SIH)**, **HackIndia**, **HackBio**
+- 🇮🇳 Participant — **Smart India Hackathon (SIH)**, **HackIndia**, **HackSprint**
 - 🎥 Technical content creator on **YouTube → [@CodeKaar](https://www.youtube.com/@CodeKaar)**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
