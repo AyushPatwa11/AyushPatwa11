@@ -85,7 +85,7 @@ me = AyushPatwa()
 
 ## 🚀 Featured Builds
 
-<table>
+<table> 
 <tr>
 <td width="50%">
 
