@@ -35,7 +35,7 @@ class AyushPatwa:
         self.focus         = ["Machine Learning", "NLP", "Computer Vision", "Data Engineering"]
         self.also_building  = ["Full-Stack Web Apps", "Cybersecurity Tools", "AI Agents"]
         self.currently      = "Creating tech content on YouTube"
-
+ 
     def mission(self):
         return "Ship intelligent, real-world products — not just notebooks."
 
