@@ -10,7 +10,7 @@
     alt="Typing SVG"
   />
 </a>
-
+ 
 <br>
 
 <!-- SOCIAL BADGES -->
